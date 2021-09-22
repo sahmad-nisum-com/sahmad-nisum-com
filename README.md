@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Shoaib Ahmad
 - 👀 I’m interested in JavaScript and related frameworks i.e. React & Angular.
-- 🌱 I’m currently as Frontend Engineer.
+- 🌱 I’m currently working as Frontend Engineer.
 - 📫 How to reach me? -> ahmad.shoaib9121@gmail.com
 
 <!---
